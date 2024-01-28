@@ -80,7 +80,7 @@ public class HoudiniEngine : ModuleRules
     {
         string HoudiniVersion = "20.0.590";
         bool bIsRelease = true;
-        string HFSPath = "C:/cygwin/home/prisms/builder-new/Nightly20.0CMakeSteam/dev/hfs";
+        string HFSPath = "D:/Nightly20.0CMake/dev/hfs";
         string RegistryPath = "HKEY_LOCAL_MACHINE\\SOFTWARE\\Side Effects Software";
         string Registry32Path = "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Side Effects Software";
         string log;
